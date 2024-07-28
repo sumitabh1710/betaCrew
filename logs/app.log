@@ -1,0 +1,29 @@
+2024-07-29 01:13:59 info: Connected to server at localhost:3000
+2024-07-29 01:13:59 info: Request to stream all packets sent successfully
+2024-07-29 01:13:59 info: Received data: 4141504c420000001e00000062000000024d455441530000001e00000037000000064d455441530000001400000039000000074d534654530000000f0000009b000000094d5346544200000014000000940000000a414d5a4e420000000a00000bb80000000b414d5a4e420000000500000bb70000000c414d5a4e530000000a00000bc70000000e
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AAPL","buySellIndicator":"B","quantity":30,"price":98,"sequence":2}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"META","buySellIndicator":"S","quantity":30,"price":55,"sequence":6}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"META","buySellIndicator":"S","quantity":20,"price":57,"sequence":7}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"MSFT","buySellIndicator":"S","quantity":15,"price":155,"sequence":9}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"MSFT","buySellIndicator":"B","quantity":20,"price":148,"sequence":10}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AMZN","buySellIndicator":"B","quantity":10,"price":3000,"sequence":11}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AMZN","buySellIndicator":"B","quantity":5,"price":2999,"sequence":12}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AMZN","buySellIndicator":"S","quantity":10,"price":3015,"sequence":14}
+2024-07-29 01:13:59 info: Connection closed
+2024-07-29 01:13:59 info: Reconnected to server at localhost:3000 to request missing packets
+2024-07-29 01:13:59 info: Request to resend packet 1 sent successfully
+2024-07-29 01:13:59 info: Request to resend packet 3 sent successfully
+2024-07-29 01:13:59 info: Request to resend packet 4 sent successfully
+2024-07-29 01:13:59 info: Request to resend packet 5 sent successfully
+2024-07-29 01:13:59 info: Request to resend packet 8 sent successfully
+2024-07-29 01:13:59 info: Request to resend packet 13 sent successfully
+2024-07-29 01:13:59 info: Received data: 4141504c420000003200000064000000014141504c530000001400000065000000034141504c530000000a00000066000000044d455441420000002800000032000000054d53465442000000190000009600000008414d5a4e530000000f00000bcc0000000d
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AAPL","buySellIndicator":"B","quantity":50,"price":100,"sequence":1}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AAPL","buySellIndicator":"S","quantity":20,"price":101,"sequence":3}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AAPL","buySellIndicator":"S","quantity":10,"price":102,"sequence":4}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"META","buySellIndicator":"B","quantity":40,"price":50,"sequence":5}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"MSFT","buySellIndicator":"B","quantity":25,"price":150,"sequence":8}
+2024-07-29 01:13:59 info: Processed packet: {"symbol":"AMZN","buySellIndicator":"S","quantity":15,"price":3020,"sequence":13}
+2024-07-29 01:13:59 info: All missing packets received.
+2024-07-29 01:13:59 info: Connection closed
+2024-07-29 01:13:59 info: JSON file has been saved.
